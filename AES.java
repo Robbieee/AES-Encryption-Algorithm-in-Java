@@ -2,10 +2,8 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.Random;
 
-//Written By Robert Freethy - 250731915
+//Written By Robert Freethy
 //AES Encryption algorithm, will encrypt 1 16byte block with IV=0
-
-
 
 public class AES {
 	
